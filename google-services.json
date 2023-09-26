@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002937174346",
+    "project_id": "my-app-7f781",
+    "storage_bucket": "my-app-7f781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002937174346:android:9f22da9595532e7c51d9b3",
+        "android_client_info": {
+          "package_name": "me.giatrung.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ09zOnEoygsaUVXFooKCgwZnKrMo_0sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
